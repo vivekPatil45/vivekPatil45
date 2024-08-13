@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vivek Patil</h1>
-<h3 align="center">A passionate Java developer</h3>
 
 ![An image of @vivekpatil45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekpatil45)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekpatil45&label=Profile%20views&color=0e75b6&style=flat" alt="vivekpatil45" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=vivekpatil45&label=Profile%20views&color=green&style=flat" alt="vivekpatil45" /> 
+</p>
 
-- 🌱 I’m currently learning **Java Spring Framework**
+<h3 align="center">
+    MERN-stack, NextJs,Java and DSA 👨🏻‍💻
+<h3>
 
-- 💬 Ask me about **DSA And Java**
 
-- 📫 How to reach me **vivekrp4503@gmail.com**
+
+
+
+<hr/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
