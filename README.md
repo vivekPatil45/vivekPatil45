@@ -16,7 +16,7 @@
 <hr/> 
 
 ### 🛠️ Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,tailwind,react,redux,express,nodejs,nextjs,mongodb,mysql,supabase,firebase,git,github,postman,latex,vite,vscode,sublime&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,tailwind,react,redux,express,nodejs,nextjs,mongodb,mysql,supabase,firebase,git,github,postman,latex,vite,vscode,sublime,eclipse&theme=light)](https://skillicons.dev)
 
 ---
 
